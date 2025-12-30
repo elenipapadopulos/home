@@ -58,10 +58,10 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: linkedin
-              url: https://www.linkedin.com/in/elenipapadopulos/
-            - name: github
-              url: https://github.com/elenipapadopulos
+            # - name: LinkedIn
+            #   url: https://www.linkedin.com/in/elenipapadopulos/
+            # - name: GitHub
+            #   url: https://github.com/elenipapadopulos
 
     socialIcons:
         - name: CV
@@ -70,6 +70,8 @@ params:
           url: mailto:eleni.papadopulos@polito.it
         - name: GitHub
           url: https://github.com/elenipapadopulos
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/elenipapadopulos/
 
     assets:
         disableScrollBarStyle: true
